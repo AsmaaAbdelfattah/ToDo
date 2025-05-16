@@ -44,6 +44,7 @@ A simple iOS Task Manager app built with **UIKit** and **Storyboards**. The app 
 
 ## Screenshots
 
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-16 at 21 33 32](https://github.com/user-attachments/assets/130eda88-ee1c-422e-98a5-7e3cd7e689c3)
+
 ![Simulator Screenshot - iPhone 16 Pro - 2025-05-16 at 21 33 35](https://github.com/user-attachments/assets/df7b2a42-3eab-45b3-8c08-ea697e195a79)
+![Simulator Screenshot - iPhone 16 Pro - 2025-05-16 at 21 33 32](https://github.com/user-attachments/assets/130eda88-ee1c-422e-98a5-7e3cd7e689c3)
 

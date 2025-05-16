@@ -23,6 +23,6 @@ class TODOTBCell: UITableViewCell {
     }
     func injectCell(item: TaskEntity){
         titleLbl.text = item.title
-        doneHandler.isOn = !item.isDone
+        doneHandler.isOn = item.isDone
     }
 }
